@@ -1,0 +1,23 @@
+{
+	"name": {
+		"message": "Website IP"
+	},
+	"description": {
+		"message": "To take IP address of the particular website in chrome"
+	},
+	"enable": {
+		"message": "Enable"
+	},
+	"disable": {
+		"message": "Disable"
+	},
+	"info": {
+		"message": "You need to reload the page in order to see the change"
+	},
+	"copyToClipboard": {
+		"message": "Copy IP into clipboard"
+	},
+	"notFound": {
+		"message": "Unable to find the IP"
+	}
+}

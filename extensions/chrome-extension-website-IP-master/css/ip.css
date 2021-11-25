@@ -1,0 +1,40 @@
+websiteip#chrome_websiteIP {
+	position: fixed;
+	bottom: 0;
+	background: #F1EDED;
+	padding: 5px;
+	border: 1px solid #919191;
+	border-bottom: 0px;
+	font-size: 12px;
+	color: #333;
+	font-family: 'Arial', Helvetica, sans-serif;
+	cursor: default;
+	z-index: 999999999;
+	line-height: 1;
+	outline: 0;
+	vertical-align: baseline;
+	margin: 0;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	user-select: none;
+	display:block;
+	height:11px;
+	min-height:11px;
+	max-height:11px;
+	width:auto;
+	box-sizing: content-box !important;
+	border-radius: 5px 5px 0 0;
+}
+
+websiteip#chrome_websiteIP.chrome_websiteIP_right {
+	right: 1%;
+}
+
+websiteip#chrome_websiteIP.chrome_websiteIP_left {
+	left: 1%;
+}
+
+/* hide if in print view */
+@media print {
+	websiteip#chrome_websiteIP {display:none;}
+}

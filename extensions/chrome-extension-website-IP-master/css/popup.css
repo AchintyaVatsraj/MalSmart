@@ -1,0 +1,16 @@
+body {
+	background-color:#ebeff9;
+	font-family:arial,sans-serif;
+	font-size:13px;
+}
+
+#content {
+	margin:0 auto;
+	width:350px;
+}
+
+input {
+	height:40px;
+	width:100px;
+	margin-bottom:10px;
+}
