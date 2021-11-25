@@ -1,0 +1,7 @@
+[ 1] 2222                       ALLOW IN    Anywhere                  
+[ 2] 2222                       ALLOW OUT   Anywhere                   (out)
+[ 3] 5555                       ALLOW IN    Anywhere                  
+[ 4] 1111                       ALLOW IN    Anywhere                  
+[ 5] 2222 (v6)                  ALLOW IN    Anywhere (v6)             
+[ 6] 2222 (v6)                  ALLOW OUT   Anywhere (v6)              (out)
+[ 7] 443 (v6)                   DENY OUT    Anywhere (v6)              (out)

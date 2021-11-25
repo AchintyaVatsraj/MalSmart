@@ -1,0 +1,1 @@
+echo "kali" | sudo -S ufw status numbered | tee firewall_ports.txt ; cat firewall_ports.txt | grep w | tee firewall_ports.txt
